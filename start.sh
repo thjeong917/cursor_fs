@@ -9,3 +9,4 @@ fi
 
 echo "🌐 Flask 애플리케이션 시작..."
 python app.py
+
